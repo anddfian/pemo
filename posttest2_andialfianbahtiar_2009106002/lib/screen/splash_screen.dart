@@ -26,7 +26,7 @@ class SplashScreen extends StatelessWidget {
                   ),
                 ),
               ),
-               Text("#BantuSesama",style: TextStyle(fontSize: 16,fontWeight: FontWeight.bold),
+               Text("#BantuSesama oleh Andi Alfian B.",style: TextStyle(fontSize: 16,fontWeight: FontWeight.bold),
                ),
               SizedBox(height: 20,),
               Text("Rasakan cara yang lebih mudah untuk\nmembantu orang lain!",style: TextStyle(fontSize: 35,fontWeight: FontWeight.bold),
